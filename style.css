@@ -1,0 +1,14 @@
+h1 {
+  /* màu chữ Ctrl+/ */
+  color: grey;
+  /* kiểu chữ  */
+  font-style: bold;
+  /* font chữ */
+  font-family: "Times New Roman", Times, serif;
+  /* chuyển hoa thường */
+  text-transform: lowercase;
+  /* căn giữa   */
+  text-align: start;
+  /* cỡ chữ */
+  font-size: 30px;
+}
